@@ -12,4 +12,4 @@
 
 - 可以点击导航条上的按钮来调到网页上的不同区域
 
->本Demo基于Bootstrap(v3.3.0)以及jquery(1.11.1)
+>本Demo基于Bootstrap(v3.3.0)、font-awesome(4.7.0)以及jquery(1.11.1)
